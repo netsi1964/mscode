@@ -11,4 +11,12 @@ I had an instant preview of my MarkDown code:
 
 I Follow the [Developing Node Applications](https://code.visualstudio.com/docs/nodejs) tutorial which is linked from Code.
 
-   
+Coding in Javascript (or Typescript I guess) you will get Intellisense as you type, pretty nice:
+![http intellisence](https://dl.dropboxusercontent.com/u/3260327/codeIntellisense.png)
+
+Trying to launch my Node.JS app lead to an error informing me that Mono (a newer version than the one I had installed) was required:
+![Mono 3.1.0 or greater required](https://dl.dropboxusercontent.com/u/3260327/mono310required.png) 
+
+I found Mono version 4.0.0 [here](http://www.mono-project.com/download/).  A `.pkg` file of around 201 Mb, downloaded (and installed ≈ 610 Mb).
+ 
+Even after installing I could not launch my Node.js app. I then tried to restart Code.

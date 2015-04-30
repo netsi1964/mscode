@@ -19,4 +19,7 @@ Trying to launch my Node.JS app lead to an error informing me that Mono (a newer
 
 I found Mono version 4.0.0 [here](http://www.mono-project.com/download/).  A `.pkg` file of around 201 Mb, downloaded (and installed ≈ 610 Mb).
  
-Even after installing I could not launch my Node.js app. I then tried to restart Code.
+Even after installing I could not launch my Node.js app. I then tried to restart Code... Which did not solve the problem.
+
+I asked our friend (Google) which suggested that other had come across this issue. A solution was offered on another friendly site (stackoverflow.com), where someone suggested that using `brew install mono` should help, so I tried that.
+([My guess is that your mono installation did not add mono to the PATH...](http://stackoverflow.com/questions/29956098/debugging-node-js-in-visual-studio-code-preview-on-os-x) which seemed likely :-)

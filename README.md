@@ -7,7 +7,8 @@ It will contain all the teste I do.
 
 This file has been written inside a split-editor view, which was kind of nice!
 I had an instant preview of my MarkDown code:
-![Image](https://dl.dropboxusercontent.com/u/3260327/Sk%C3%A6rmbillede%202015-04-30%2023.20.00.png).
+![Image](https://dl.dropboxusercontent.com/u/3260327/Sk%C3%A6rmbillede%202015-04-30%2023.20.00.png)
 
+I Follow the [Developing Node Applications](https://code.visualstudio.com/docs/nodejs) tutorial which is linked from Code.
 
    

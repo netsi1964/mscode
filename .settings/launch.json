@@ -17,7 +17,7 @@
 			// Workspace relative or absolute path to the working directory of the program being debugged. Default is the current workspace.
 			"cwd": ".",
 			// Workspace relative or absolute path to the runtime executable to be used. Default is the runtime executable on the PATH.
-			"runtimeExecutable": "~/Library/Frameworks/Mono.framework/Versions/4.0.0/bin",
+			"runtimeExecutable": null,
 			// Environment variables passed to the program.
 			"env": { }
 		}, 
